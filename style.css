@@ -82,8 +82,9 @@ body {
     color: white;
     padding: 10px;
     border-radius: 30px;
-    border: solid black 1px;
     cursor: pointer;
+    border: solid #A435F0;
+
 }
     .Categories p:hover{
         transition: 1s;
